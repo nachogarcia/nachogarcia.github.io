@@ -40,6 +40,7 @@ h3 {
 }
 
 .icons div span {
+  text-shadow: 4px 4px 4px #d3d3d3;
   font-size: 6rem;
 }
 
