@@ -1,0 +1,60 @@
+body {
+  background: url(me.jpg) no-repeat center center fixed;
+  background-size: cover;
+  text-align: center;
+  font-family: 'Open Sans', serif;
+}
+
+.header {
+  margin: 10rem 0 10rem 0;
+}
+
+h1 {
+  font-size: 3.5rem;
+  margin: 1rem 0 0.5rem;
+}
+
+h2 {
+  font-family: 'Tangerine', serif;
+  font-size: 3rem;
+  margin-bottom: 3rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+.skills {
+  margin: 1rem;
+  padding: 3rem;
+  background-color: rgba(211,211,211,0.5);
+}
+
+.icons {
+  justify-content: center;
+}
+
+.icons div {
+  margin: 3rem 0 3rem 0;
+  font-size: 3rem;
+}
+
+.icons div span {
+  font-size: 6rem;
+}
+
+.socials {
+  position: fixed;
+  justify-content: center;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  font-size: 2rem;
+}
+
+.socials a:link, .socials a:visited, .socials a:hover, .socials a:active {
+  text-decoration: none;
+  color: inherit;
+}
